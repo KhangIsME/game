@@ -23,7 +23,7 @@ body{
 }
 #content{
     width: 50%;
-    height: 450px;
+    height: 480px;
     float: left;
     text-align: center;
     background-color: white;
@@ -39,7 +39,7 @@ body{
     background-color: black;
     width: 100%;
     text-align: center;
-    margin-top: 590px;
+    margin-top: 600px;
     color: white;
 }
 h1{
