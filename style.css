@@ -35,16 +35,16 @@ body{
   margin-right: auto;
 }
 #footer{
-    height: 51px;
+    height: 91px;
     background-color: black;
     width: 100%;
-    color: white;
     text-align: center;
+    margin-top: 590px;
+    color: white;
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 80px;
-    color: white;
     transition: 1s;
 }
 
