@@ -42,3 +42,14 @@ body{
     margin-top: 450px;
     text-align: center;
 }
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: white;
+    transition: 1s;
+}
+
+h1:hover{
+    color: rgb(94, 247, 127);
+    transition: 1s;
+}
