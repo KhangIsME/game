@@ -11,7 +11,6 @@
 }
 body{
     width: 100%;
-    background: url(kKQf0tQ.png);
 }
 #head{
     background: black;
@@ -22,25 +21,17 @@ body{
     font-size: 40px;
 }
 #content{
-    width: 50%;
+    width: 100%;
     height: 650px;
-    float: left;
     text-align: center;
-    background-color: white;
-    margin-left: 25%;
+    background-image: url('kKQf0tQ.png');
 }
-.center{
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-#footer{
+.foot{
     height: 91px;
     background-color: black;
-    width: 100%;
     text-align: center;
-    margin-top: 650px;
     color: white;
+    width: 100%;
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
@@ -51,4 +42,10 @@ h1{
 h1:hover{
     color: rgb(94, 247, 127);
     transition: 1s;
+}
+.textcont{
+    height: 700px;
+    width: 50%;
+    margin-left: 25%;
+    background-color: white;
 }
